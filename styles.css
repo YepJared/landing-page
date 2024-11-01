@@ -1,0 +1,36 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+.header {
+    display: flex;
+    background-color: #1F2937;
+    justify-content: center;
+}
+
+.header-content {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    display: flex;
+    flex: 1;
+    gap: 16px;
+    padding: 16px 96px;
+    align-items: center;
+    max-width: 1600px;
+}
+
+.header-logo {
+    margin-right: auto;
+    color: #E5E7EB;
+    font-size: 24px;
+    font-weight: 900;
+}
+
+.header-link {
+    color: #E5E7EB;
+    text-decoration: none;
+    font-size: 18px;
+}
