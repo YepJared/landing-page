@@ -34,3 +34,58 @@
     text-decoration: none;
     font-size: 18px;
 }
+
+.hero {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    background-color: #1F2937;
+}
+
+.hero-content {
+    display: flex;
+    padding: 16px 96px;
+    margin: 48px 0px;
+    max-width: 1600px;
+    justify-content: space-between;
+    align-items: center;
+    flex: 1;
+    gap: 48px;
+}
+
+.hero-left {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 16px;
+}
+
+.hero-text {
+    color: #F9FAF8;
+    font-size: 48px;
+    font-weight: 900;
+}
+
+.hero-text-secondary {
+    color: #E5E7EB;
+    font-size: 18px;
+}
+
+.hero-sign-up {
+    background-color: #3882F6;
+    border-radius: 8px;
+    border: none;
+    padding: 8px 24px;
+    color: #E5E7EB;
+    font-weight: 900;
+}
+
+.hero-right {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.hero-image {
+    max-width: 100%;
+    flex: 0 0 auto;
+}
