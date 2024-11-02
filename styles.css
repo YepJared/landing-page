@@ -143,6 +143,7 @@
     background-color: #E5E7EB;
     gap: 8px;
     padding: 48px 10%;
+    margin: 48px 0;
 }
 
 .quote {
@@ -158,4 +159,45 @@
     color: #1F2937;
     font-weight: 900;
     padding: 0 10%;
+}
+
+.info-action-call {
+    display: flex;
+    flex: 1;
+    justify-content: center;
+    padding: 0 10%;
+    margin: 48px 0;
+}
+
+.action-call-content {
+    background-color: #3882F6;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 32px;
+    border-radius: 8px;
+    gap: 48px;
+    flex: 1;
+    max-width: 60vw;
+}
+
+.action-call-left {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+}
+
+.action-call-text {
+    font-size: 18px;
+    color: #F9FAF8;
+    font-weight: 900;
+}
+
+.action-call-text-secondary {
+    font-size: 16px;
+    color: #E5E7EB;
+}
+
+#bordered {
+    border: 2px solid #E5E7EB;
 }
