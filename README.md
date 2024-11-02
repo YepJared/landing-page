@@ -7,3 +7,5 @@ This is an exploration in using Flexbox to design webpages
 # Images
 
 Hero banner image: https://www.pexels.com/photo/blue-and-red-galaxy-artwork-1629236/
+
+Info section image: https://www.pexels.com/photo/brown-wooden-parquet-flooring-129731/
