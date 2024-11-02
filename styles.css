@@ -69,7 +69,7 @@
     font-size: 18px;
 }
 
-.hero-sign-up {
+.sign-up {
     background-color: #3882F6;
     border-radius: 8px;
     border: none;
@@ -149,7 +149,6 @@
     font-size: 36px;
     color: #1F2937;
     font-style: italic;
-    text-align: center;
     padding: 0 10%;
 }
 
