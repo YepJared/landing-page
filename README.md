@@ -8,4 +8,10 @@ This is an exploration in using Flexbox to design webpages
 
 Hero banner image: https://www.pexels.com/photo/blue-and-red-galaxy-artwork-1629236/
 
-Info section image: https://www.pexels.com/photo/brown-wooden-parquet-flooring-129731/
+Mystical orb: https://pixabay.com/photos/sphere-orb-decoration-3d-3024599/
+
+Crystal: https://unsplash.com/photos/purple-and-black-stone-fragment--Of-1FQHiA4
+
+Soul: https://pixabay.com/illustrations/ghost-soul-a-book-smoke-memories-751277/
+
+Potion: https://pixabay.com/illustrations/toxic-brew-drink-teapot-tea-7637397/
