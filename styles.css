@@ -4,6 +4,13 @@
     font-family: 'Roboto', sans-serif;
 }
 
+body {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    min-height: 100vh;
+}
+
 .header {
     display: flex;
     background-color: #1F2937;
@@ -144,6 +151,7 @@
     gap: 8px;
     padding: 48px 10%;
     margin: 48px 0;
+    justify-content: center;
 }
 
 .quote {
@@ -200,4 +208,18 @@
 
 #bordered {
     border: 2px solid #E5E7EB;
+}
+
+.footer {
+    display: flex;
+    flex: 1;
+    background-color: #1F2937;
+    justify-content: center;
+    align-items: center;
+    padding: 32px;
+}
+
+.footer-text {
+    font-size: 16px;
+    color: #E5E7EB;
 }
